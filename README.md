@@ -1,6 +1,8 @@
 # Exploring Forecast Trust During COVID-19: A Data-Driven Study  
 **Course:** ITC6002 – Exploring and Analyzing Data
+
 **Institution:** MSc in Data Science, The American College of Greece
+
 **Term:** Fall 2023
 
 ## Overview  
