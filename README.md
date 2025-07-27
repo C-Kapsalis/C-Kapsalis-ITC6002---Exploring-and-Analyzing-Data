@@ -1,5 +1,7 @@
 # Exploring Forecast Trust During COVID-19: A Data-Driven Study  
-*ITC6002 – Exploring and Analyzing Data (MSc Data Science, ACG)*
+**Course:** ITC6002 – Exploring and Analyzing Data
+**Institution:** MSc in Data Science, The American College of Greece
+**Term:** Fall 2023
 
 ## Overview  
 This project investigates how the COVID-19 pandemic affected public trust in expert-driven forecasts, particularly epidemiological ones. By analyzing survey data on behavioral shifts, trust levels, and forecast perception during the pandemic, the team sought to understand correlations between demographic factors, media use, and belief in data-informed policy decisions.
