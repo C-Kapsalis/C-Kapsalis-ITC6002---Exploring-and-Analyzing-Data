@@ -43,11 +43,5 @@ The dataset is based on a survey conducted during the COVID-19 pandemic and incl
 - Final Report (DOCX & PDF)  
 - Final Presentation (PPTX)
 
-## Authors  
-- Christoforos Kapsalis  
-- Dimitris Alimpertis  
-- Iasonas Zouras  
-- Konstantinos Margaritis  
-
 ## License  
 For academic and demonstration purposes only.
